@@ -15,6 +15,7 @@
     "react": "^16.8.1",
     "react-chartjs-2": "^2.7.4",
     "react-dom": "^16.8.1",
+    "react-jss": "^8.6.1",
     "react-perfect-scrollbar": "^1.4.4",
     "react-router-config": "^5.0.0",
     "react-router-dom": "^4.3.1",
