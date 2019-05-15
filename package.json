@@ -25,7 +25,7 @@
     "validate.js": "^0.12.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "PORT=7333 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
